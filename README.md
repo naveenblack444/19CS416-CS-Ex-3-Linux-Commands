@@ -120,7 +120,7 @@ AWS Account Creation Snapshot
 # Result :
 Thus, Kali Linux guest OS was installed and configured successfully.
 
-## Linux Commands
+## 3.c) Execution of Linux Commands in Kali
 
 Linux commands are executed in the terminal, which is case-sensitive. This guide covers some basic and advanced commands used in Linux.
 
