@@ -112,6 +112,11 @@ Devices → Insert Guest Additions CD Image → Follow steps inside Kali
 AWS Account Creation Snapshot
 # Snapshot 1: Installing Oracle VirtualBox image
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fedc2a7-959f-4545-b4dc-726fd9ae0065" />
+# Snapshot 2: Kali or Parrot Running in Virtual image
+<img width="1914" height="1022" alt="image" src="https://github.com/user-attachments/assets/85f2a997-c23a-44a1-8610-3dc8a3f07e5e" />
+
+# Result :
+Thus, Kali Linux guest OS was installed and configured successfully.
 
 ## Linux Commands
 
