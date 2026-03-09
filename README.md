@@ -120,7 +120,7 @@ AWS Account Creation Snapshot
 # Result :
 Thus, Kali Linux guest OS was installed and configured successfully.
 
-## 3.c) Execution of Linux Commands in Kali
+# 3.c) Execution of Linux Commands in Kali
 
 Linux commands are executed in the terminal, which is case-sensitive. This guide covers some basic and advanced commands used in Linux.
 
@@ -134,6 +134,7 @@ ls
 ```
 
 **Output:**
+<img width="1122" height="193" alt="image" src="https://github.com/user-attachments/assets/ab801f56-fc8c-4cc3-a41e-56d9447c1ea6" />
 
 ### 2. `pwd` Command
 
@@ -145,6 +146,7 @@ pwd
 ```
 
 **Output:**
+<img width="1074" height="90" alt="image" src="https://github.com/user-attachments/assets/db983924-485c-48af-b3bb-6373e057fab5" />
 
 ### 3. `mkdir` Command
 
@@ -156,6 +158,7 @@ mkdir <directory_name>
 ```
 
 **Output:**
+<img width="1118" height="159" alt="image" src="https://github.com/user-attachments/assets/7dc2be4d-44de-4fe0-b3ba-32f7c6c094e3" />
 
 ### 4. `rmdir` Command
 
@@ -167,6 +170,7 @@ rmdir <directory_name>
 ```
 
 **Output:**
+<img width="1117" height="165" alt="image" src="https://github.com/user-attachments/assets/ae721269-a62f-44bd-9989-0d22fbdeb5c4" />
 
 ### 5. `cd` Command
 
@@ -178,6 +182,7 @@ cd <directory_name>
 ```
 
 **Output:**
+<img width="1080" height="194" alt="image" src="https://github.com/user-attachments/assets/aee80c1d-e4e1-4fa8-a67a-285da3298f86" />
 
 ### 6. `cat` Command
 
@@ -189,6 +194,7 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+<img width="1115" height="218" alt="image" src="https://github.com/user-attachments/assets/b148980e-e9fc-497f-80c9-f056e03846ec" />
 
 ### 7. `cp` Command
 
@@ -200,6 +206,7 @@ cp <source_file> <destination_file>
 ```
 
 **Output:**
+<img width="1089" height="161" alt="image" src="https://github.com/user-attachments/assets/aa7de482-aa77-427d-b9f9-44f56a81aaa9" />
 
 ### 8. `gedit` Command
 
@@ -211,6 +218,7 @@ gedit <file_name>
 ```
 
 **Output:**
+<img width="776" height="61" alt="image" src="https://github.com/user-attachments/assets/bad9465e-fb24-4369-99d1-72279d71198d" />
 
 ### 9. `su` Command
 
@@ -222,6 +230,7 @@ su <username>
 ```
 
 **Output:**
+<img width="974" height="110" alt="image" src="https://github.com/user-attachments/assets/ab23fe94-c4a3-4c02-9d99-effb6aa81922" />
 
 ### 10. `mv` Command
 
